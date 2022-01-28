@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Arima+Madurai:wght@100;200&family=Barlow:wght@300&family=Josefin+Sans&family=Manrope:wght@200&family=Raleway:ital,wght@0,100;1,200&family=Zen+Old+Mincho:wght@900&display=swap");
+.up {
+  display: flex;
+  justify-content: space-between;
+  /* justify-content: space-around; */
+  font-family: "Arima Madurai", cursive;
+
+  margin: 20px 0;
+}
+.right {
+  text-align: center;
+  font-size: 25px;
+  margin-left: 100px;
+  /* font-weight: bold; */
+}
+
+.left {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-right: 40px;
+}
+.left h3 {
+  margin: 0;
+}
+
+.solde-p,
+.number-p {
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-items: center; */
+  text-align: center;
+  font-weight: bold;
+  font-size: 13px;
+  color: rgb(67, 67, 177);
+  /* margin-left: 50; */
+  
+}
+
+.confirm {
+  height: 40px;
+  width: 300px;
+  color: rgb(67, 67, 177);
+  border: 0.5px solid rgb(67, 67, 177);
+  border-radius: 50px;
+  font-size: 18px;
+  font-weight: bold;
+}
+p{
+    margin:2px;
+}
+h2{
+    margin: 0;
+}
+.down {
+  display: flex;
+  /* margin-left: 100px; */
+  /* text-align: center; */
+  justify-content: center;
+  /* justify-content: flex-start; */
+  flex-wrap: wrap;
+  gap: 30px;
+
+  /* width: 1200px; */
+}
+.down p{
+    font-weight: bold;
+    
+}

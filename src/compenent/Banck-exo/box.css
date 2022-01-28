@@ -1,0 +1,37 @@
+.container{
+    text-align: center;
+}
+
+.box-form{
+    
+    text-align: center;
+    display: flex;
+    flex-direction: column ;
+    width: 50vh;
+    height: 40vh;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 20px;
+}
+.H1{
+    font-size: 20px;
+    
+}
+#montant{
+    height: 40px;
+    /* background-color: black; */
+    /* outline: none; */
+    border-radius: 5px;
+    /* border: none; */
+}
+#R1{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    outline: none;
+    border: none;
+    height: 40px;
+    border-radius: 5px;
+
+
+}
+ 
+

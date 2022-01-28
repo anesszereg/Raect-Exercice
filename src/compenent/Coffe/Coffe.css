@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Arima+Madurai:wght@100;200&family=Barlow:wght@300&family=Josefin+Sans&family=Manrope:wght@200&family=Raleway:ital,wght@0,100;1,200&family=Zen+Old+Mincho:wght@900&display=swap");
+
+.container {
+    background-color: rgb(51, 48, 44);
+    display: flex;
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    /* gap: 1px; */
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    height: 100vh;
+    font-family: "Arima Madurai", cursive;
+
+}
+.box{
+    margin:0 ;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 400px;
+    padding: 10px;
+    height: 70vh;
+}
+.box:hover{
+    box-shadow: 1px 1px 10px 1px wheat   ;
+}
+
+h1{
+    font-size: 60px;
+
+
+}
+/* h3{
+    text-align: start;
+    padding: 5px;
+    text-decoration: underline;
+    
+}
+h4{
+    text-align: start;
+    padding: 5px;
+    text-decoration: underline;
+    margin: 10px 5px;
+    
+} */
+.down{
+    text-align: center;
+
+}
+ol{
+    font-size: 18px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* margin-left: 20px; */
+    text-align: start;
+    font-weight: bold;
+    margin: 0 20px;
+}
+#myinput{
+    height: 30px;
+    border-radius: 5px;
+    border: 0.5px solid grey;
+    width: 300px;
+    outline: none;
+
+    /* text-align: center; */
+    /* margin-left: 100px; */
+}
+.btn1{
+    height: 30px;
+    border-radius: 5px;
+    width: 150px;
+    text-align: center;
+    font-size: 18px;
+    padding: 3px;
+    background: none;
+    border: 0.5px solid grey;
+    /* margin-left: 180px; */
+
+}
+.btn1:hover{
+    /* animation: reverse; */
+    box-shadow:1px 1px 3px 1px rgb(116, 116, 99);
+}
+p{
+    font-weight: bold;
+}
+.paragraph{
+    text-decoration: underline;
+}

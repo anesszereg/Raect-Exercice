@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Arima+Madurai:wght@100;200&family=Barlow:wght@300&family=Josefin+Sans&family=Manrope:wght@200&family=Raleway:ital,wght@0,100;1,200&family=Zen+Old+Mincho:wght@900&display=swap");
+.element-form{
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Arima Madurai", cursive;
+}
+.titel-element{
+    color: black;
+    font-weight: bold;
+}
+.price{
+    color: rgb(223, 22, 173);
+    text-align: center;
+}
+.add{
+    height: 40px;
+    border-radius: 50px;
+    width: 300px;
+    background: none;
+    outline: none;
+    border: 0.5px solid gray;
+    color: black;
+    font-size: 20px;
+}

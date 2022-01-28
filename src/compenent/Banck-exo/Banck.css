@@ -1,0 +1,33 @@
+.Form-banc{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    /* text-align: center; */
+    background-color: #ffffffff;
+    height: 100vh;
+    
+
+
+}
+.Titel{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.cridit{
+    margin-left: 790px;
+    font-size: 20px;
+}
+
+.servise{
+    font-size: 25px;
+    text-decoration: underline;
+}
+.boxs{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}

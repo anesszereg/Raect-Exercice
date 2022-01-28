@@ -1,0 +1,37 @@
+.box-chat{
+    background-color: #ffffff
+    ;
+    /* border: 1px solid red; */
+    height: 60vh;
+    width: 90vh;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+.messege{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around ;
+}
+#msg{
+    outline: none;
+    border-radius: 10px;
+    padding: 4px;
+}
+.btn3{
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    width: 90px;
+
+}
+.T1{
+    text-align: start;
+    text-decoration: underline;
+}
+.box-chat:hover{
+    box-shadow:5px 5px 5px 5px  rgb(204, 206, 211);
+}
+p{
+    text-align: start;
+}
